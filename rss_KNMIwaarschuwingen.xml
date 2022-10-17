@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="https://cdn.knmi.nl/knmi/xml/rss_KNMIwaarschuwingen.xml" rel="self" type="application/rss+xml" />
+<title>KNMI: Waarschuwingen</title>
+<description>Koninklijk Nederlands Meteorologisch Instituut</description>
+<link>https://www.knmi.nl</link>
+<language>nl-nl</language>
+<copyright>Copyright: KNMI, https://www.knmi.nl/</copyright>
+<image>
+<title>KNMI: Waarschuwingen</title>
+<url>https://cdn.knmi.nl/knmi/xml/RSSread/knmi-rsslogo.gif</url>
+<link>https://www.knmi.nl/nederland-nu/weer/waarschuwingen</link>
+</image>
+<item>
+<title>Code groen: Er zijn geen waarschuwingen</title>
+<description>&lt;p&gt;Er zijn momenteel geen waarschuwingen van kracht.&lt;/p&gt;&lt;br&gt;Uitgifte: 16/10/2022 15:36 uur LT
+<![CDATA[ <p><img src="https://cdn.knmi.nl/knmi/map/current/weather/warning/waarschuwing_land_0_new.gif" width=300>&nbsp;<img src="https://cdn.knmi.nl/knmi/map/current/weather/warning/waarschuwing_land_1_new.gif" width=300>&nbsp;<img src="https://cdn.knmi.nl/knmi/map/current/weather/warning/waarschuwing_land_2_new.gif" width=300></p>]]>
+</description>
+<enclosure type="image/gif" url="https://cdn.knmi.nl/knmi/map/current/weather/warning/waarschuwing_land_48_new.gif" length="11605"/>
+<link>https://www.knmi.nl/waarschuwingen</link>
+<guid>https://www.knmi.nl/waarschuwingen?Warnings_Sun%2016%20Oct%202022%2015:36:00%20+0200</guid>
+<pubDate>Sun, 16 Oct 2022 15:36:00 +0200</pubDate>
+<category domain="https://www.knmi.nl">Weather</category>
+<category domain="https://www.knmi.nl">Weer</category>
+<author>webmaster@knmi.nl (Webmaster KNMI)</author>
+</item>
+<item>
+<title>Waarschuwingen Waddeneilanden</title>
+<description>Code Groen. Er zijn momenteel geen waarschuwingen van kracht.</description>
+<link>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/waddeneilanden</link>
+<guid>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/waddeneilanden</guid>
+<pubDate>Sun, 16 Oct 2022 15:36:00 +0200</pubDate>
+<category domain="https://www.knmi.nl">Regional Weather</category>
+<category domain="https://www.knmi.nl">Regionaal Weer</category>
+<author>webmaster@knmi.nl (Webmaster KNMI)</author>
+</item>
+<item>
+<title>Waarschuwingen Groningen</title>
+<description>Code Groen. Er zijn momenteel geen waarschuwingen van kracht.</description>
+<link>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/groningen</link>
+<guid>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/groningen</guid>
+<pubDate>Sun, 16 Oct 2022 15:36:00 +0200</pubDate>
+<category domain="https://www.knmi.nl">Regional Weather</category>
+<category domain="https://www.knmi.nl">Regionaal Weer</category>
+<author>webmaster@knmi.nl (Webmaster KNMI)</author>
+</item>
+<item>
+<title>Waarschuwingen Friesland</title>
+<description>Code Groen. Er zijn momenteel geen waarschuwingen van kracht.</description>
+<link>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/friesland</link>
+<guid>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/friesland</guid>
+<pubDate>Sun, 16 Oct 2022 15:36:00 +0200</pubDate>
+<category domain="https://www.knmi.nl">Regional Weather</category>
+<category domain="https://www.knmi.nl">Regionaal Weer</category>
+<author>webmaster@knmi.nl (Webmaster KNMI)</author>
+</item>
+<item>
+<title>Waarschuwingen Drenthe</title>
+<description>Code Groen. Er zijn momenteel geen waarschuwingen van kracht.</description>
+<link>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/drenthe</link>
+<guid>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/drenthe</guid>
+<pubDate>Sun, 16 Oct 2022 15:36:00 +0200</pubDate>
+<category domain="https://www.knmi.nl">Regional Weather</category>
+<category domain="https://www.knmi.nl">Regionaal Weer</category>
+<author>webmaster@knmi.nl (Webmaster KNMI)</author>
+</item>
+<item>
+<title>Waarschuwingen Noord-Holland</title>
+<description>Code Groen. Er zijn momenteel geen waarschuwingen van kracht.</description>
+<link>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/noord-holland</link>
+<guid>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/noord-holland</guid>
+<pubDate>Sun, 16 Oct 2022 15:36:00 +0200</pubDate>
+<category domain="https://www.knmi.nl">Regional Weather</category>
+<category domain="https://www.knmi.nl">Regionaal Weer</category>
+<author>webmaster@knmi.nl (Webmaster KNMI)</author>
+</item>
+<item>
+<title>Waarschuwingen Flevoland</title>
+<description>Code Groen. Er zijn momenteel geen waarschuwingen van kracht.</description>
+<link>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/flevoland</link>
+<guid>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/flevoland</guid>
+<pubDate>Sun, 16 Oct 2022 15:36:00 +0200</pubDate>
+<category domain="https://www.knmi.nl">Regional Weather</category>
+<category domain="https://www.knmi.nl">Regionaal Weer</category>
+<author>webmaster@knmi.nl (Webmaster KNMI)</author>
+</item>
+<item>
+<title>Waarschuwingen Overijssel</title>
+<description>Code Groen. Er zijn momenteel geen waarschuwingen van kracht.</description>
+<link>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/overijssel</link>
+<guid>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/overijssel</guid>
+<pubDate>Sun, 16 Oct 2022 15:36:00 +0200</pubDate>
+<category domain="https://www.knmi.nl">Regional Weather</category>
+<category domain="https://www.knmi.nl">Regionaal Weer</category>
+<author>webmaster@knmi.nl (Webmaster KNMI)</author>
+</item>
+<item>
+<title>Waarschuwingen Gelderland</title>
+<description>Code Groen. Er zijn momenteel geen waarschuwingen van kracht.</description>
+<link>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/gelderland</link>
+<guid>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/gelderland</guid>
+<pubDate>Sun, 16 Oct 2022 15:36:00 +0200</pubDate>
+<category domain="https://www.knmi.nl">Regional Weather</category>
+<category domain="https://www.knmi.nl">Regionaal Weer</category>
+<author>webmaster@knmi.nl (Webmaster KNMI)</author>
+</item>
+<item>
+<title>Waarschuwingen Utrecht</title>
+<description>Code Groen. Er zijn momenteel geen waarschuwingen van kracht.</description>
+<link>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/utrecht</link>
+<guid>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/utrecht</guid>
+<pubDate>Sun, 16 Oct 2022 15:36:00 +0200</pubDate>
+<category domain="https://www.knmi.nl">Regional Weather</category>
+<category domain="https://www.knmi.nl">Regionaal Weer</category>
+<author>webmaster@knmi.nl (Webmaster KNMI)</author>
+</item>
+<item>
+<title>Waarschuwingen Zuid-Holland</title>
+<description>Code Groen. Er zijn momenteel geen waarschuwingen van kracht.</description>
+<link>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/zuid-holland</link>
+<guid>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/zuid-holland</guid>
+<pubDate>Sun, 16 Oct 2022 15:36:00 +0200</pubDate>
+<category domain="https://www.knmi.nl">Regional Weather</category>
+<category domain="https://www.knmi.nl">Regionaal Weer</category>
+<author>webmaster@knmi.nl (Webmaster KNMI)</author>
+</item>
+<item>
+<title>Waarschuwingen Zeeland</title>
+<description>Code Groen. Er zijn momenteel geen waarschuwingen van kracht.</description>
+<link>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/zeeland</link>
+<guid>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/zeeland</guid>
+<pubDate>Sun, 16 Oct 2022 15:36:00 +0200</pubDate>
+<category domain="https://www.knmi.nl">Regional Weather</category>
+<category domain="https://www.knmi.nl">Regionaal Weer</category>
+<author>webmaster@knmi.nl (Webmaster KNMI)</author>
+</item>
+<item>
+<title>Waarschuwingen Noord-Brabant</title>
+<description>Code Groen. Er zijn momenteel geen waarschuwingen van kracht.</description>
+<link>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/noord-brabant</link>
+<guid>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/noord-brabant</guid>
+<pubDate>Sun, 16 Oct 2022 15:36:00 +0200</pubDate>
+<category domain="https://www.knmi.nl">Regional Weather</category>
+<category domain="https://www.knmi.nl">Regionaal Weer</category>
+<author>webmaster@knmi.nl (Webmaster KNMI)</author>
+</item>
+<item>
+<title>Waarschuwingen Limburg</title>
+<description>Code Groen. Er zijn momenteel geen waarschuwingen van kracht.</description>
+<link>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/limburg</link>
+<guid>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/limburg</guid>
+<pubDate>Sun, 16 Oct 2022 15:36:00 +0200</pubDate>
+<category domain="https://www.knmi.nl">Regional Weather</category>
+<category domain="https://www.knmi.nl">Regionaal Weer</category>
+<author>webmaster@knmi.nl (Webmaster KNMI)</author>
+</item>
+<item>
+<title>Waarschuwingen Waddenzee</title>
+<description>Code Groen. Er zijn momenteel geen waarschuwingen van kracht.</description>
+<link>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/waddenzee</link>
+<guid>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/waddenzee</guid>
+<pubDate>Sun, 16 Oct 2022 15:36:00 +0200</pubDate>
+<category domain="https://www.knmi.nl">Regional Weather</category>
+<category domain="https://www.knmi.nl">Regionaal Weer</category>
+<author>webmaster@knmi.nl (Webmaster KNMI)</author>
+</item>
+<item>
+<title>Waarschuwingen IJsselmeergebied</title>
+<description>Code Groen. Er zijn momenteel geen waarschuwingen van kracht.</description>
+<link>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/ijsselmeergebied</link>
+<guid>https://www.knmi.nl/nederland-nu/weer/waarschuwingen/ijsselmeergebied</guid>
+<pubDate>Sun, 16 Oct 2022 15:36:00 +0200</pubDate>
+<category domain="https://www.knmi.nl">Regional Weather</category>
+<category domain="https://www.knmi.nl">Regionaal Weer</category>
+<author>webmaster@knmi.nl (Webmaster KNMI)</author>
+</item>
+</channel>
+</rss>
