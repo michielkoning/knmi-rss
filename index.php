@@ -5,6 +5,18 @@ header("Content-type: text/xml");
 $rss = new DOMDocument();
 $rss->load('https://cdn.knmi.nl/knmi/xml/rss/rss_KNMIwaarschuwingen.xml');
 
+
+function getItemByTag($node, $tag)
+{
+  $value = $node->getElementsByTagName($tag)->item(0)->nodeValue;
+  if ($tag === 'description') {
+    $value = str_replace("&nbsp;", " ", $value);
+    $value = strip_tags($value);
+  }
+  return '<' . $tag .  '>' . $value . '</' . $tag . '>';
+}
+
+$tags = ['title', 'description', 'link', 'guid', 'pubDate', 'category', 'category', 'author'];
 ?>
 
 <rss version="2.0">
@@ -21,21 +33,7 @@ $rss->load('https://cdn.knmi.nl/knmi/xml/rss/rss_KNMIwaarschuwingen.xml');
     </image>'
 
     <?php
-
-    function getItemByTag($node, $tag)
-    {
-      $value = $node->getElementsByTagName($tag)->item(0)->nodeValue;
-      if ($tag === 'description') {
-        $value = str_replace("&nbsp;", " ", $value);
-        $value = strip_tags($value);
-      }
-      return '<' . $tag .  '>' . $value . '</' . $tag . '>';
-    }
-
-    $tags = ['title', 'description', 'link', 'guid', 'pubDate', 'category', 'category', 'author'];
-
     foreach ($rss->getElementsByTagName('item') as $node) {
-
       echo '<item>';
       foreach ($tags as $tag) {
         echo getItemByTag($node, $tag);
