@@ -22,7 +22,7 @@ function getItemByTag($node, $tag)
   return '<' . $tag .  '>' . $value . '</' . $tag . '>';
 }
 
-$tags = ['title', 'description', 'link', 'guid', 'pubDate', 'category', 'category', 'author'];
+$tags = ['title', 'description', 'link', 'guid', 'pubDate', 'category', 'author'];
 ?>
 
 <rss version="2.0">
