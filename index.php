@@ -5,13 +5,19 @@ header("Content-type: text/xml");
 $rss = new DOMDocument();
 $rss->load('https://cdn.knmi.nl/knmi/xml/rss/rss_KNMIwaarschuwingen.xml');
 
-
 function getItemByTag($node, $tag)
 {
   $value = $node->getElementsByTagName($tag)->item(0)->nodeValue;
   if ($tag === 'description') {
     $value = str_replace("&nbsp;", " ", $value);
     $value = strip_tags($value);
+
+    $doc = new DOMDocument();
+    $doc->loadHTML($value);
+    foreach ($doc->getElementsByTagName('a') as $link) {
+      $linkText = $link->nodeValue;
+      $value = str_replace($linkText, "", $value);
+    }
   }
   return '<' . $tag .  '>' . $value . '</' . $tag . '>';
 }
